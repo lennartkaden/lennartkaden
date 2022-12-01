@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lennartkaden
 - 👀 I’m interested in dynamic web applications
-- 🌱 I’m currently learning django and js
+- 🌱 I’m currently learning C and C++ / Django and JS
 - 📫 How to reach me: dev@lenniemail.de
  
 <!---
