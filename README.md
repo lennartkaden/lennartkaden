@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @lennartkaden
-- 👀 I’m interested in dynamic web applications
-- 🌱 I’m currently learning C and C++ / Django and JS
-- 📫 How to reach me: dev@lenniemail.de
- 
-<!---
-- 💞️ I’m looking to collaborate on 
---->
+- 👀 I’m interested in dynamic web applications and computational health informatics
+- 🌱 I’m currently learning NextJS with Django backend and neural networks in medicine
+- 📫 How to reach me: lennart@kaden.id
